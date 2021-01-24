@@ -1,0 +1,27 @@
+{
+  "name": "narcos code ticket tools bot altyapı",
+  "version": "1.0.0",
+  "description": "Ticket Tool",
+  "main": "narcosmain.js",
+  "scripts": {
+    "start": "node narcosmain.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "fs": "0.0.2",
+    "jimp": "^0.12.1",
+    "moment": "^2.26.0",
+    "quick.db": "^7.1.1",
+    "node-superfetch": "^0.1.10"
+  },
+  "engines": {
+    "node": "11.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "tool",
+    "ticket"
+  ]
+}
